@@ -1,4 +1,4 @@
-# 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+![WhatsApp Image 2025-10-23 at 21 20 42_5ed950c4](https://github.com/user-attachments/assets/a76bad63-79e4-47a2-b244-32e03b7bea81)# 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
 **AIM:**
 
@@ -27,11 +27,20 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
 
+![WhatsApp Image 2025-10-23 at 21 20 40_19ba24fd](https://github.com/user-attachments/assets/794c9e8f-6d9e-4085-9fd4-43e6de4d7aee)
+
+
+
 **MODEL GRAPH:**
+
+
+![WhatsApp Image 2025-10-23 at 21 20 41_6cab4e20](https://github.com/user-attachments/assets/33175464-4d8a-4b0b-8078-7331aad54682)
 
 Resistance (RL) in ohm
 
-**TABULATION:**
+**CALCULATION:**
+
+
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
 
@@ -61,6 +70,11 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 **MODEL CALCULATION:**
 
+
+![WhatsApp Image 2025-10-23 at 21 20 41_5f05e67d](https://github.com/user-attachments/assets/44e9109a-dbc1-4c9a-8953-f838b399becf)
+
+
+
 **PROCEDURE:**
 
 1.	Make connection as per the circuit diagram.
@@ -70,6 +84,13 @@ voltage (VL) in volts	Load Power (PL) in watts
 3.	Plot a graph between RL and PL and find the RL corresponding to maximum power transfer.
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
+
+
+**MARKSPLITUP:**
+
+
+![WhatsApp Image 2025-10-23 at 21 20 42_5ed950c4](https://github.com/user-attachments/assets/0c3a2d1a-3f19-4b41-98d5-2e3288421c05)
+
 
 **RESULT:**
 
