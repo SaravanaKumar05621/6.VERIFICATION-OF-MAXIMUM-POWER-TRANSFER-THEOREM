@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-10-23 at 21 20 42_5ed950c4](https://github.com/user-attachments/assets/a76bad63-79e4-47a2-b244-32e03b7bea81)# 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
 **AIM:**
 
@@ -40,6 +39,7 @@ Resistance (RL) in ohm
 
 **CALCULATION:**
 
+![WhatsApp Image 2025-10-23 at 21 20 41_d90e8783](https://github.com/user-attachments/assets/fef92b2a-9c61-4783-a128-7f3ac3cda013)
 
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
@@ -68,7 +68,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 5.				
 
 
-**MODEL CALCULATION:**
+**OBSERVATION:**
 
 
 ![WhatsApp Image 2025-10-23 at 21 20 41_5f05e67d](https://github.com/user-attachments/assets/44e9109a-dbc1-4c9a-8953-f838b399becf)
